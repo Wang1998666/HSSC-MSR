@@ -1,4 +1,4 @@
-# Assessment of the Shipping decarbonization along the Maritime Silk Road"
+# Assessment of the Shipping decarbonization along the Maritime Silk Road
 
 ## Overview
 `SolutionMethodMultiShipCode.m` is a MATLAB analysis script for Silk Road shipping decarbonization studies. It covers:
